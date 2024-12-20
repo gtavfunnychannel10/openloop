@@ -58,7 +58,7 @@ put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
    ```
 5. Auto reff using temp mail
    ```bash
-  python reg.py
+  python reg.py 
    ```
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
