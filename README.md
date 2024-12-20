@@ -46,7 +46,7 @@ put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
    ```
 2. Install dependencies:
    ```bash
-   npm install
+   pip install -r requirements.txt
    ```
 3. Setup to create accounts and get Tokens:
    ```bash
@@ -54,11 +54,11 @@ put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
    ```
 4. Run The Script:
    ```bash
-   npm run start
+   python mine.py
    ```
 5. Auto reff using temp mail
    ```bash
-   npm run autoreff
+  python reg.py
    ```
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
